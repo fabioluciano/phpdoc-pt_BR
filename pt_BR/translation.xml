@@ -12,6 +12,8 @@
 
  <work-in-progress>
   <file name="reference/array/*" person="fabioluciano" type="update" date="2016-03-29"/>
+  <file name="language/oop5/*" person="fabioluciano" type="update" date="2016-03-30"/>
+  <file name="reference/classobj/*" person="fabioluciano" type="update" date="2016-03-30"/>
   <file name="reference/b*" person="ae" type="update" date="2016-03-09"/>
  </work-in-progress>
 
